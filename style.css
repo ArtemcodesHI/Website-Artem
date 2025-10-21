@@ -1,10 +1,10 @@
 img {
-    width: 200px;
+    width: 250px;
 }
 
 body {
     text-align: center;
-    font-family: 'Papyrus';
-    background:rgb(from red r g b);
-    color:blueviolet;
+    font-family: "Times New Roman";
+    background:rgb(251, 235, 251);
+    color:rgb(65, 0, 72);
 }
